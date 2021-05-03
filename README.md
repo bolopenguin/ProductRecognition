@@ -12,7 +12,9 @@ For additional information check out the pdf "Report_Computer_Vision".
 # Requirements
 
 Python 3.7
+
 OpenCV 3.4
+
 Jupyter Notebook
 
 # Usage
